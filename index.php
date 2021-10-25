@@ -35,6 +35,7 @@
             <?php $id++;}?>
             </tbody>
     </table>
+    <marquee height="5px" weight="100%" color="blue"></marquee>
     <table width="500" border="1" align="center" >
         <tr>
                 <th><strong>Mã Số</strong></th>
