@@ -21,7 +21,7 @@
         <tbody>
         <?php
             $id=1;
-            $result=pg_query($conn,"Select * from order");
+            $result=pg_query($conn,"Select * from oder");
             while($row=pg_fetch_array($result,NULL, PGSQL_ASSOC))
             {
             ?>
