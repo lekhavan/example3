@@ -53,7 +53,7 @@
 			<tr>
               <td><?php echo $row["id"];?></td>
               <td><?php echo $row["name"];?></td>
-              <td><?php echo $row["idO"];?></td>
+              <td><?php echo $row["ido"];?></td>
               <td><?php echo $row["pr"];?></td>
             </tr>
             <?php $id++;}?>
